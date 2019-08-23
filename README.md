@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/Vijayv0485/My.NetProject/_apis/build/status/vijju1438.With.Net?branchName=master)](https://dev.azure.com/Vijayv0485/My.NetProject/_build/latest?definitionId=4&branchName=master)
 
 [![Build Status](https://dev.azure.com/Vijayv0485/My.NetProject/_apis/build/status/vijju1438.With.Net?branchName=master)](https://dev.azure.com/Vijayv0485/My.NetProject/_build/latest?definitionId=5&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
